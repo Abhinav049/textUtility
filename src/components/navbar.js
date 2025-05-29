@@ -12,9 +12,9 @@ function Navbar(props) {
           <li>
             <a>Contact</a>
           </li>
-          <li>
+          {/* <li>
             <a>About Us</a>
-          </li>
+          </li> */}
 
           <li>
             {/* <button className="chan" onClick={props.newStyle}>
